@@ -2,12 +2,12 @@
 
 ## Objectives
 
-x Managed services & "Multi-runtimes"/ Nix image
-x Preview environments
-x Show green regions / multicloud
-x LLMs: CPU local model for embedding & external APIs for inference
-x Next.js is easy on Upsun (upsun ify - config-next.example)
-x Scalability?
+- Managed services & "Multi-runtimes"/ Nix image
+- Preview environments
+- Show green regions / multicloud
+- LLMs: CPU local model for embedding & external APIs for inference
+- Next.js is easy on Upsun (upsun ify - config-next.example)
+- Scalability?
 
 ## Project architecture
 
